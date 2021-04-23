@@ -48,8 +48,7 @@ function ButtonClick(id) {
             +' a part of a project. I attached the mainframe to the drone frame and properly assembled the motors and '
             +"the propellers. Finally, I calibrated the Yaw, Pitch, Throttle, and Roll and set up "
             +"the drone's accelormeter  using the Betaflight configurator. </div>"
-            +'<video id="awdimg" controls width="320" length="240">'
-            +'<source src="Drone.mp4" type="video/mp4"></video><br><br><br><br>'
+            +'<iframe src="https://drive.google.com/file/d/1sHw6Fgpczabr_L6V7-tiRLNrx0iSDz_e/preview" id="awdimg" width="340" height="480"></iframe><br><br><br><br>'
             +'<h2>Independant Science Project</h2>'
             +'<div id="awdimg" class="vidcap">'
             +' I have done research on the life and work of the celebrated scientist Michael Farday. I have compiled the results of '
