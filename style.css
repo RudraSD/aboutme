@@ -1,0 +1,116 @@
+header { 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: whitesmoke;
+    size: 30px;
+    text-align: center;
+    background-color: rgb(19, 0, 128);
+    background-size: contain;
+}
+ 
+figure {
+    width:fit-content;
+    margin-right:0%;
+}
+
+.NavBtn {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    background-color:rgba(6, 9, 158, 0.384);
+    font-size: 31px;
+    border:rgba(209, 119, 16, 0.904);
+    border-width: 5px;
+    margin-top:10px; 
+    margin-left: 120px;
+    border-radius:4px;
+}
+
+#answer {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(65, 225, 212);
+    font-size:30px;
+    text-align: justify;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ 
+
+#awdimg {
+    width:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#reportcard {
+    width:500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#scimg {
+    width:500px;
+    top: 500px;
+    right:150px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:whitesmoke;
+    background-color: red;
+    text-align:center;
+    font-size:45px;
+}
+
+#abttext {
+    /**/position:relative;/**/
+    /*position:absolute;*/
+    top:-300px;
+    left:250px;/**/
+    font-size:15px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+#abtimg {
+    width:170px;
+    height:340px;
+    margin-left:40px;
+}
+
+#video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vidcap {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:19px;
+    color:blue;
+    text-align:justify;
+    font-weight:bolder;
+}
+
+.alternatecap {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:19px;
+    color:blue;
+    text-align:center;
+    font-weight:bold;
+}
+
+#udem {
+    width:500px;
+}
+
+.cp {
+    color: blueviolet;
+    font-size:28px;
+    font-weight: bold;
+    text-align: center;
+}
