@@ -4,7 +4,7 @@ function ButtonClick(id) {
         } else if(id =='Skill') {
             document.getElementById("MainText").innerHTML = '' 
             + '<h2>Karate</h2><div id="awdimg" class="alternatecap">Here is a video of me practicing EMPI kata in the '
-            +'living room.<br><br> </div><iframe src="https://drive.google.com/file/d/1gOFu6vmHYDJeYScPu3GL4dOzmrRr6-X0/preview" width="320" height="240"></iframe>'
+            +'living room.<br><br> </div><iframe id="awdimg" src="https://drive.google.com/file/d/1gOFu6vmHYDJeYScPu3GL4dOzmrRr6-X0/preview" width="340" height="350"></iframe>'
             +'<source  src="pictures/Empi_Kata.mp4" type="video/mp4"></video> <br><br><br><br><div id="awdimg" class="vidcap"> '
             +'A picture of me with'
             +' Kancho Nobuaki Kanazawa,'
@@ -17,8 +17,8 @@ function ButtonClick(id) {
             +'</video>'
             +'<div id="awdimg" class="alternatecap"><br><br><br>A video-clip of me playing at the annual '
             +'school concert.</div><br>'
-            +'<video id="awdimg" width="320" height="240" controls><source src="pictures/Concert2.mp4" '
-            +'type="video/mp4"></video><br><br><br><br>'
+            +'<iframe id="awdimg" src="https://drive.google.com/file/d/1367NeJONk7-0Xj0Xlcg8BrKGmdtSdLiK/preview" width="340" height="350"></iframe>'
+            +'<br><br><br><br>'
             +'<div id="awdimg" class="alternatecap">Two more audio clips of me playing my flute.</div>'
             +'<audio id="awdimg" controls><source src="pictures/Scherzino.mp3" type="audio/mpeg">'
             +'</audio><audio id="awdimg" controls><source src="pictures/Sonata In F.mp3" type="audio/mpeg"></audio>';
