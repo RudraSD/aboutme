@@ -53,7 +53,7 @@ function ButtonClick(id) {
             +'<h2>Independant Science Project</h2>'
             +'<div id="awdimg" class="vidcap">'
             +' I have done research on the life and work of the celebrated scientist Michael Farday. I have compiled the results of '
-            +'my study <a href="https://sites.google.com/studentmail.conroeisd.net/20-21-yo-rice-faraday/home">'
+            +'my study <a href="https://sites.google.com/view/20-21-yo-rice-faraday-site/home">'
             +'here.</a></div><br><br><br>'
             +'<h2>Numerology Prediction - have fun!</h2>'
             + '<div id="awdimg" class="vidcap">I coded the following astrology program in Javascript for fun! '
