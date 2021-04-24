@@ -14,7 +14,6 @@ function ButtonClick(id) {
             +'<h2>Flute</h2>'
             +'<div id="awdimg" class="alternatecap">A video of me practicing for a band winter audition.</div><br>'
             +'<iframe id="awdimg" src="https://drive.google.com/file/d/1367NeJONk7-0Xj0Xlcg8BrKGmdtSdLiK/preview" width="340" height="350"></iframe>'
-            +'</video>'
             +'<div id="awdimg" class="alternatecap"><br><br><br>A video-clip of me playing at the annual '
             +'school concert.</div><br>'
             +'<iframe id="awdimg" src="https://drive.google.com/file/d/16CLUo-cHoc895_YGRGSINMsEqF0YGB6d/preview" width="340" height="350"></iframe>'
