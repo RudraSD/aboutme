@@ -21,7 +21,7 @@ function ButtonClick(id) {
             +'type="video/mp4"></video><br><br><br><br>'
             +'<div id="awdimg" class="alternatecap">Two more audio clips of me playing my flute.</div>'
             +'<audio id="awdimg" controls><source src="pictures/Scherzino.mp3" type="audio/mpeg">'
-            +'</audio><audio id="awdimg" controls><source src="pictures/Sonata in F.mp3" type="audio/mpeg"></audio>';
+            +'</audio><audio id="awdimg" controls><source src="pictures/Sonata In F.mp3" type="audio/mpeg"></audio>';
         } else if(id == 'Award') {
             document.getElementById("MainText").innerHTML = '<br><br><div id="awdimg" class="vidcap">'
             +'Awards earned for <u>outstanding character</u> and <u>mastery</u> in <u>science</u> in school.</div>'
