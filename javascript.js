@@ -4,7 +4,7 @@ function ButtonClick(id) {
         } else if(id =='Skill') {
             document.getElementById("MainText").innerHTML = '' 
             + '<h2>Karate</h2><div id="awdimg" class="alternatecap">Here is a video of me practicing EMPI kata in the '
-            +'living room.<br><br> </div><video id="awdimg" width="320" height="240" controls>'
+            +'living room.<br><br> </div><iframe src="https://drive.google.com/file/d/1gOFu6vmHYDJeYScPu3GL4dOzmrRr6-X0/preview" width="320" height="240"></iframe>'
             +'<source  src="pictures/Empi_Kata.mp4" type="video/mp4"></video> <br><br><br><br><div id="awdimg" class="vidcap"> '
             +'A picture of me with'
             +' Kancho Nobuaki Kanazawa,'
