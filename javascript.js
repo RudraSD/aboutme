@@ -24,7 +24,7 @@ function ButtonClick(id) {
             +'</audio><audio id="awdimg" controls><source src="pictures/Sonata In F.mp3" type="audio/mpeg"></audio>';
         } else if(id == 'Award') {
             document.getElementById("MainText").innerHTML = '<br><br><div id="awdimg" class="vidcap">'
-            +'Awards earned for <u>outstanding character</u> and <u>mastery</u> in <u>science</u> in school.</div>'
+            +'Awards earned for <u>outstanding character</u> and <u>performance</u> in <u>science</u> in school.</div>'
             +'<img id="awdimg" src="Science&CharacterTrophies.jpg"></img>'
             +'<br><br><div id="awdimg" class="vidcap">Trophies and medals won from various <u>karate</u> tournaments.</div>'
             +'<img id="awdimg" src="pictures/Karate Trophies (1).jpg"></img><img id="awdimg" src="Karate Medals.jpg"></img>'
