@@ -10,7 +10,7 @@ function ButtonClick(id) {
             +' Kancho Nobuaki Kanazawa,'
             +'5 time winner of the Shotokan Karate International Federation(SKIF) Japan Nation Championships and' 
             +'winner of the 2000 SKIF World Championships as the "Grand Champion". He is the current leader of SKIF. The picture was taken during a karate workshop'
-            +'given by him.</div>'
+            +' given by him.</div>'
             +'<img id="awdimg" src="pictures/Kancho.JPG"></img>' 
             +'<h2>Flute</h2>'
             +'<div id="awdimg" class="alternatecap">A video of me practicing for a band winter audition.</div><br>'
@@ -64,7 +64,7 @@ function ButtonClick(id) {
 
         } else if(id =='Contact') {
             document.getElementById("MainText").innerHTML = '<h2><em>Report Cards</em></h2>'
-            +'<div id="awdimg" class="cp"><em>7th Grade(Scores till date)</em></div>'
+            +'<div id="awdimg" class="cp"><em>7th Grade(scores till date)</em></div>'
             +'<div id="awdimg" class="alternatecap" id="alternatecap">Algebra I(9th Grade Math): 99% '
             +'&nbsp;Science: 99% '
             +'<br>Language Arts: 99% &nbsp;Texas History: 100%  <br>'
