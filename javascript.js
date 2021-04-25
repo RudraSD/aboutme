@@ -63,7 +63,7 @@ function ButtonClick(id) {
 
         } else if(id =='Contact') {
             document.getElementById("MainText").innerHTML = '<h2><em>Report Cards</em></h2>'
-            +'<div id="awdimg" class="cp"><em>7th Grade</em></div>'
+            +'<div id="awdimg" class="cp"><em>7th Grade(Scores till date)</em></div>'
             +'<div id="awdimg" class="alternatecap" id="alternatecap">Algebra I(9th Grade Math): 99% '
             +'&nbsp;Science: 99% '
             +'<br>Language Arts: 99% &nbsp;Texas History: 100%  <br>'
