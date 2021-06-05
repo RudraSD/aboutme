@@ -64,12 +64,12 @@ function ButtonClick(id) {
 
         } else if(id =='Contact') {
             document.getElementById("MainText").innerHTML = '<h2><em>Report Cards</em></h2>'
-            +'<div id="awdimg" class="cp"><em>7th Grade(scores till date)</em></div>'
+            +'<div id="awdimg" class="cp"><em>7th Grade)</em></div>'
             +'<div id="awdimg" class="alternatecap" id="alternatecap">Algebra I(9th Grade Math): 99% '
             +'&nbsp;Science: 99% '
-            +'<br>Language Arts: 99% &nbsp;Texas History: 100%  <br>'
-            +'Physical Education: 100% &nbsp;Wind Ensemble(Band): 100%<br>Teen Leadership: 99% </div>'
-            +'<img id="reportcard" src="pictures/7th-ReportCard.jpg"></img>'
+            +'<br>Language Arts: 99% &nbsp;Texas History: 100% <br>'
+            +'Physical Education: 100% &nbsp;Wind Ensemble(Band): 100%<br>Teen Leadership: 99% &nbsp; Drones:97%</div>'
+            +'<img id="reportcard" src="pictures/7th-ReportCard-Final.png"></img>'
             +'<div id="awdimg" class="cp"><br><br><em>Credit By Exam Score(8th Grade Math Test Taken During 6th Grade)</em></div>'
             +'<div id="awdimg" class="alternatecap">98%</div>'
             +'<img id="reportcard" src="pictures/CBE-CISD.jpg"></img>'
