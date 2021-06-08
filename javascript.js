@@ -69,7 +69,7 @@ function ButtonClick(id) {
             +'&nbsp;Science: 99% '
             +'<br>Language Arts: 99% &nbsp;Texas History: 100% <br>'
             +'Physical Education: 100% &nbsp;Wind Ensemble(Band): 100%<br>Teen Leadership: 99% &nbsp; Drones:97%</div>'
-            +'<img id="reportcard" src="pictures/7th-ReportCard-Final.png"></img>'
+            +'<img id="reportcard" src="pictures/Sarker Das Report Card-1.jpg"></img>'
             +'<div id="awdimg" class="cp"><br><br><em>Credit By Exam Score(8th Grade Math Test Taken During 6th Grade)</em></div>'
             +'<div id="awdimg" class="alternatecap">98%</div>'
             +'<img id="reportcard" src="pictures/CBE-CISD.jpg"></img>'
