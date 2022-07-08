@@ -19,7 +19,7 @@ function ButtonClick(id) {
             +'<img id="awdimg" src="pictures/Kancho.JPG"></img>'
             +'<div id="awdimg" class="vidcap">'
             +'This is a picture of me with Sensei Dennis Livotto, and my newly-acquired black belt.</div>'
-            +'<img id="awdimg" src="pictures/IMG_1364.JPG" width="400" height="500"></img>'
+            +'<img id="awdimg" src="pictures/IMG_1364.JPG" width="400" height="550"></img>'
             +'<h2>Flute</h2>'
             +'<div id="awdimg" class="alternatecap">A video of me practicing for a band winter audition.</div><br>'
             +'<iframe id="awdimg" src="https://drive.google.com/file/d/1367NeJONk7-0Xj0Xlcg8BrKGmdtSdLiK/preview" width="340" height="350"></iframe>'
