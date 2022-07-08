@@ -1,6 +1,11 @@
 function ButtonClick(id) {
         if(id =='AboutMe') {
-            document.getElementById("MainText").innerHTML = '<img id="abtimg" src="flutescreenshot.PNG"><div id="abttext">Welcome to my homepage! My name is Rudra Sarker Das. I live with my parents in Spring, TX, USA. It is a beautiful city just north of Houston.<br><br>I study in the 8th grade at <a href="https://www.depts.ttu.edu/k12/">Texas Tech University K-12l</a>. Math and Science are my favorite subjects. I also love playing the flute. Yes, that is me playing it in front of our house.<br><br> I am a black belt in karate. I used to practice in the wonderful <a href="http://www.thewoodlandsshotokan.com/">TWSK</a> dojo run by <a href="http://www.thewoodlandsshotokan.com/instructors">Sensei Dennis Livotto (6th Dan)</a>. I also dabble in computer programming. This webpage is a result of it! Please take the time to browse through it. Do not forget to play the fun numerology game that I have constructed in the projects tab.<br><br> Thanks for your time! I hope you enjoyed it!</div>';
+            document.getElementById("MainText").innerHTML = '<img id="abtimg" src="20220626_123200.jpg"><div id="abttext">Welcome to my homepage! My name is Rudra Sarker Das. I live with my parents in Dhanbad, Jharkand, India. It is a great city northeast of Ranchi.'
+            +'<br><br>I study in the 9th grade at the <a href="https://www.depts.ttu.edu/k12/"> Texas Tech University K-12 Program</a>. Math and Science are my favorite subjects. I also love playing the flute. '
+            +'<br><br> I am a black belt in karate. I practice in the <a href="https://www.facebook.com/SHOTOKAN.ISKK/">International Shotokan Karate-Do Kyokai</a> dojo run by <a href="https://www.facebook.com/warriorsmeet15/?ref=py_c">Sensei Kyoshi Ranjeet Keshari(7th Dan).</a> I also dabble in computer programming. This webpage is a result of it! '
+            +'Please take the time to browse through it. Do not forget to play the fun numerology game that I have constructed in the projects tab.'
+            +'<br><br> Thanks for your time! I hope you enjoyed it!'
+            +'</div>';
         } else if(id =='Skill') {
             document.getElementById("MainText").innerHTML = '' 
             + '<h2>Karate</h2><div id="awdimg" class="alternatecap">Here is a video of me practicing EMPI kata in the '
