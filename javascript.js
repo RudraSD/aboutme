@@ -76,6 +76,7 @@ function ButtonClick(id) {
             +'<div id="awdimg" class="alternatecap" id="alternatecap">Algebra II(11th Grade Math): 97%'
             +'&nbsp;Science: 99%'
             +'<br>Language Arts: 96% &nbsp;Social Studies: 99%</div>'
+            +'<img id="reportcard" src="Transcript Rudra Sarker Das-1_page-0001.jpg"></img>'
             +'<div id="awdimg" class="cp"><em>7th Grade</em></div>'
             +'<div id="awdimg" class="alternatecap" id="alternatecap">Algebra I(9th Grade Math): 99% '
             +'&nbsp;Science: 99% '
